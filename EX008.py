@@ -1,0 +1,7 @@
+medida = float(input("Digite um valor em metros:"))
+print(f"{medida} m tem {medida*0.001} km. ")
+print(f"{medida} m tem {medida*0.01} hm.")
+print(f"{medida} m tem {medida*0.1} dam.")
+print(f"{medida} m tem {medida*10} dm.")
+print(f"{medida} m tem {medida*100} cm.")
+print(f"{medida} m tem {medida*1000} mm.")
